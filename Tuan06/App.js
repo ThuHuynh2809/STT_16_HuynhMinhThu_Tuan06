@@ -5,8 +5,8 @@ import Screen02 from './screen/Screen02';
 
 export default function App() {
   return (
-    //Screen01()
-    Screen02()
+    Screen01()
+    //Screen02()
   );
 }
 

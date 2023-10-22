@@ -119,8 +119,8 @@ const styles = StyleSheet.create({
     },
     header: {
         width: "100%",
-        // position: 'fixed',
-        // top:0,
+        //position: 'fixed',
+        //top:0,
         flexDirection: "row",
         justifyContent: "space-around",
         alignItems: "center",
